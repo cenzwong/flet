@@ -2,7 +2,7 @@ import ai21
 
 def ai21_rewrite(text, intent):
     print(text, intent)
-    ai21.api_key = 'jc5dvUcu1UVpWxqMcBCEUUUpFyVUrkvv'
+    ai21.api_key = 'jc5dvUcu1UVpWxqMcBCEUUUpFyVUrkvvvvv'
     r = ai21.Experimental.rewrite(
         text=text, 
         intent=intent
